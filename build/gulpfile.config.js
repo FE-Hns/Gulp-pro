@@ -1,6 +1,5 @@
 var SRC_DIR = "src/" //src目录
 var DIST_DIR = "dist/" //dist目录
-// var DIST_FILES = DIST_DIR+"**" //目标路径下的所有文件
 
 var Config = {
     // 给index.html配置
